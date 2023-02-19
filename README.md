@@ -1,18 +1,17 @@
 ### Hey 👋
 
-I'm a founder turned software developer. I believe computing has enourmous power to augment human capabilities... and is also great fun.
+I'm a founder turned software developer. I believe computing has enourmous power to augment human capabilities. And it's also great fun.
 
-This is why I code (hyperlink)
+- [Here's](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) why I code
 
-Here's my CV
+- 🔭 Currently learning Docker/Kubernetes, Java & Android app games
 
-- 🔭 I'm currently working on Light-Cycle (cross-platform game with React/React Native) (hyperlink)
+- 🚈 Up next is a project I'm quite excited about, [Train-Mood-Map](https://github.com/robin277t/train-mood-map)
 
-LEARNING - Kubernetes/Docker, Java, Android app games
+- This is my [CV](https://github.com/robin277t/CV)
 
-Up next is a project I'm quite excited about, Train-Mood-Map 
+- 🤔 Find out more about my [start-up background story](https://medium.com/@robintyler87/the-story-of-my-start-up-d1a6c97f2c0c) 
 
-Oh and if you want to know my background story with the start-up, here it is (hyperlink)
 
 <!--
 **robin277t/robin277t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
