@@ -8,6 +8,8 @@ Here's my CV
 
 - 🔭 I'm currently working on Light-Cycle (cross-platform game with React/React Native) (hyperlink)
 
+LEARNING - Kubernetes/Docker, Java, Android app games
+
 Up next is a project I'm quite excited about, Train-Mood-Map 
 
 Oh and if you want to know my background story with the start-up, here it is (hyperlink)
