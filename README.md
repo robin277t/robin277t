@@ -2,15 +2,15 @@
 
 I'm a founder turned software developer. I believe computing has enourmous power to augment human capabilities. And it's also great fun.
 
-- [Here's](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) why I code
+[Here's](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) why I code
 
-- 🔭 Currently learning Docker/Kubernetes, Java & Android app games
+🔭 Currently learning Docker/Kubernetes, Java & Android app games
 
-- 🚈 Up next is a project I'm quite excited about, [Train-Mood-Map](https://github.com/robin277t/train-mood-map)
+🚈 Up next is a project I'm quite excited about, [Train-Mood-Map](https://github.com/robin277t/train-mood-map)
 
-- This is my [CV](https://github.com/robin277t/CV)
+[This](https://github.com/robin277t/CV) is my CV
 
-- 🤔 Find out more about my [start-up background story](https://medium.com/@robintyler87/the-story-of-my-start-up-d1a6c97f2c0c) 
+🤔 Find out more about my [start-up background story](https://medium.com/@robintyler87/the-story-of-my-start-up-d1a6c97f2c0c) 
 
 
 <!--
