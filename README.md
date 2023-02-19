@@ -1,6 +1,6 @@
 ### Hey 👋
 
-**I'm a founder turned software developer. I believe computing has enourmous power to augment human capabilities. And it's also great fun.**
+I'm a founder turned software developer. I believe computing has enourmous power to augment human capabilities. And it's also great fun.
 
 [Here's](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) why I code
 
