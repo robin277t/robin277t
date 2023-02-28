@@ -4,7 +4,7 @@ I'm a founder turned software developer. I believe computing has enourmous power
 
 [Here's](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) why I code
 
-Currently learning Docker/Kubernetes, Java & Android app games 🔭. Up next is a project I'm quite excited about, [Train-Mood-Map](https://github.com/robin277t/train-mood-map) 🚈 
+Currently learning about Docker & Kubernetes, practising Java & Android app games 🔭. Main working project at the moment is [Train-Mood-Map](https://github.com/robin277t/train-mood-map) 🚈 
 
 [This](https://github.com/robin277t/CV) is my CV
 
